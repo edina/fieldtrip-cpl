@@ -1,0 +1,19 @@
+{
+    "versions":{
+        "core": "master",
+        "project": "0.0.1"
+    },
+    "plugins":{
+        "cordova": [
+            "https://github.com/apache/cordova-plugin-camera.git#0.3.6",
+            "https://github.com/apache/cordova-plugin-console.git#0.2.13",
+            "https://github.com/apache/cordova-plugin-device.git#0.3.0",
+            "https://github.com/apache/cordova-plugin-file.git#1.3.3",
+            "https://github.com/apache/cordova-plugin-geolocation.git#1.0.1",
+            "https://github.com/apache/cordova-plugin-media.git#0.2.16",
+            "https://github.com/apache/cordova-plugin-media-capture.git#0.3.6"
+        ],
+        "fieldtrip": {
+        }
+    }
+}
