@@ -1,6 +1,6 @@
 {
     "body": {
-        "section2": {
+        "section1": {
             "title": "Download",
             "items": {
                 "item1": {
@@ -14,8 +14,15 @@
                         "src": "plugins/sync/css/images/download-editors.png",
                         "alt": "Download Editors"
                     },
-                    "title": "Survey"
-                }
+                    "title": "Download Survey"
+                },
+                "item2": {},
+                "item3": {}
+            }
+        },
+        "section2": {
+            "title": "Capture",
+            "items": {
             }
         }
     }

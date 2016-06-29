@@ -9,6 +9,10 @@
                     "title": "Saved"
                 }
             }
+        },
+        "section2": {
+            "title": "",
+            "items": {}
         }
     }
 }
