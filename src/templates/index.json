@@ -25,9 +25,9 @@
                     },
                     "img": {
                         "src": "plugins/sync/css/images/download-editors.png",
-                        "alt": "Download Editors"
+                        "alt": "Update Survey"
                     },
-                    "title": "Download Survey"
+                    "title": "Update Survey"
                 }
             }
         }
