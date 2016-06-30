@@ -1,24 +1,8 @@
 {
     "body": {
         "section1": {
-            "title": "Download",
-            "items": {
-                "item1": {
-                    "div": {
-                        "class": "ui-block-a sync-show sync-download-button"
-                    },
-                    "a": {
-                        "href": "#"
-                    },
-                    "img": {
-                        "src": "plugins/sync/css/images/download-editors.png",
-                        "alt": "Download Editors"
-                    },
-                    "title": "Download Survey"
-                },
-                "item2": {},
-                "item3": {}
-            }
+            "title": "",
+            "items": {}
         },
         "section2": {
             "title": "Capture",

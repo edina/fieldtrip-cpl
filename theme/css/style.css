@@ -1,3 +1,8 @@
+.ui-header h1{
+    background-image: url("../css/images/icon.png");
+}
+
+
 #layout-toggle{
     display: none;
 }
