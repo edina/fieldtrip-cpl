@@ -2,9 +2,17 @@
     background-image: url("../css/images/icon.png");
 }
 
-
+/* hide save records layout toggle */
 #layout-toggle{
     display: none;
+}
+
+#saved-records-page-header .ui-block-c{
+    width: 10%;
+}
+
+#saved-records-page-header a{
+    background-color: #38c;
 }
 
 #annotate-form label,
