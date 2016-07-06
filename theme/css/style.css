@@ -6,3 +6,16 @@
 #layout-toggle{
     display: none;
 }
+
+#annotate-form label,
+#annotate-form .ui-input-text
+{
+    color: black;
+    background-color: white;
+    text-shadow: none;
+}
+
+#hmap{
+    position: absolute;
+    top: -100px;
+}
