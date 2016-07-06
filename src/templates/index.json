@@ -21,6 +21,25 @@
                         "alt": "Update Survey"
                     },
                     "title": "Update Survey"
+                },
+                "item3": {
+                    "div": {
+                        "id": "hmap",
+                        "width": "10px",
+                        "height": "10px"
+                    },
+                    "title": "map"
+                }
+
+            }
+        },
+        "section4": {
+            "items": {
+                "item5": {
+                    "div": {"class": "ui-block-b"},
+                    "a": {"href": "saved-maps.html"},
+                    "img": {"src": "css/images/saved.png", "alt": "Save Map"},
+                    "title": "Saved"
                 }
             }
         }
