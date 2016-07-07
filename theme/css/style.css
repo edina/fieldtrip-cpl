@@ -15,6 +15,10 @@
     background-color: #38c;
 }
 
+#annotate-image-size-switch{
+    display: none;
+}
+
 #annotate-form label,
 #annotate-form .ui-input-text
 {
