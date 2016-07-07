@@ -11,6 +11,10 @@
     width: 10%;
 }
 
+#saved-records-page-header-login-sync{
+    display: none;
+}
+
 #saved-records-page-header a{
     background-color: #38c;
 }
