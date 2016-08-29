@@ -13,7 +13,7 @@
             "https://github.com/apache/cordova-plugin-geolocation.git#1.0.1",
             "https://github.com/apache/cordova-plugin-media.git#0.2.16",
             "https://github.com/apache/cordova-plugin-media-capture.git#0.3.6",
-            "https://github.com/apache/cordova-plugin-whitelist.git"
+            "https://github.com/apache/cordova-plugin-whitelist.git#1.2.2"
         ],
         "fieldtrip": {
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.5",
