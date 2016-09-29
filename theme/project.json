@@ -17,7 +17,7 @@
         ],
         "fieldtrip": {
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.5",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#1.0.0"
+            "sync": "git@github.com:edina/fieldtrip-sync.git#fieldtrip-cps"
         }
     }
 }
