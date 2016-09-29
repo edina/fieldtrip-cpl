@@ -8,7 +8,7 @@
 }
 
 #saved-records-page-header .ui-block-c{
-    width: 10%;
+    width: 20%;
 }
 
 #saved-records-page-header-login-sync{
@@ -34,4 +34,15 @@
 #hmap{
     position: absolute;
     top: -100px;
+}
+/*STYLES TO CHANGE UPLOAD BUTTON ON LIST RECORDS */
+#saved-records-page-header a{
+    background-color: transparent;
+}
+#saved-records-page-header-upload{
+    background-image : none;
+    background-size : auto auto;
+    background-position : 0 0;
+    border: #b5c976 solid 1.5px;
+    width:100%;
 }
