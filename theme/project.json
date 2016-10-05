@@ -1,7 +1,7 @@
 {
     "versions":{
-        "core": "catwatch-1.0",
-        "project": "0.4.2"
+        "core": "fieldtrip-cps",
+        "project": "1.0.0"
     },
     "plugins":{
         "cordova": [
