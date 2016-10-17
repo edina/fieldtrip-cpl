@@ -1,7 +1,7 @@
 {
     "versions":{
         "core": "fieldtrip-cps",
-        "project": "1.0.0"
+        "project": "1.0.1"
     },
     "plugins":{
         "cordova": [
